@@ -1,4 +1,4 @@
-from django.contrib import admin
-from insta.models import instagal
+# from django.contrib import admin
+# from insta.models import instagal
 
-admin.site.register(instagal)
+# admin.site.register(instagal)
